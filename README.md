@@ -25,7 +25,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/srabani28/Finance-Management-Frontend
-   cd expense-tracker
+   cd Finance-Management-Frontend
    ```
 2. Install dependencies:
    ```sh
